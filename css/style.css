@@ -1167,7 +1167,7 @@ h2 {
 }
 
 .product-detail .nav.nav-pills .nav-link {
-    color: #003171;
+    color: #ffffff;
     background: #000000;
     border-radius: 0;
     transition: all .3s;
@@ -1175,7 +1175,7 @@ h2 {
 
 .product-detail .nav.nav-pills .nav-link:hover,
 .product-detail .nav.nav-pills .nav-link.active {
-    color: #000000;
+    color: #ffffff;
     background: #003171;
 }
 
@@ -1207,7 +1207,7 @@ h2 {
 }
 
 .product-detail .tab-content .reviewer {
-    color: #003171;
+    color: #ffffff;
     font-size: 18px;
     font-weight: 600;
 }
@@ -1219,7 +1219,7 @@ h2 {
 }
 
 .product-detail .tab-content .ratting {
-    color: #003171;
+    color: yellow;
     margin-bottom: 15px;
 }
 
@@ -2364,8 +2364,4 @@ h2 {
     .footer-bottom .template-by {
         text-align: center; 
     } 
-}
-
-ul{
-    list
 }
